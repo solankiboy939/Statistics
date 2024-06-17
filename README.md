@@ -30,7 +30,7 @@ The purpose of this project is to complete Introduction of Statistics In PYTHON.
 
   
 
-<img src="https://github.com/solankiboy939/Statistics/assets/119101769/f922f886-3289-451a-bcef-2c0cc9b739bb" alt="Animated GIF" width="700" height="350" />
+<img src="https://github.com/solankiboy939/Statistics/assets/119101769/98591ff6-79ed-4de3-ae2f-8237c6b47ca3" alt="Animated GIF" width="700" height="350" />
 
 
 For example, if the project is about analyzing the impact of social media on mental health, the objective could be to identify any significant correlations between social media usage and various mental health metrics.
@@ -53,14 +53,12 @@ This project includes the following features:
   
 - **Inferential Statistics:** Methods to infer properties of the population from the dataset. This includes confidence intervals, hypothesis testing (e.g., t-tests, chi-square tests), and p-value computation.
 
-
-
-<img src="https://github.com/solankiboy939/Statistics/assets/119101769/4f0f2012-e628-489d-a9fb-937d1b20d80d" alt="Animated GIF" width="700" height="350" />
+<img src="https://github.com/solankiboy939/Statistics/assets/119101769/ed463e03-8c33-45f8-9e11-eee6b6799974" alt="Animated GIF" width="700" height="350" />
   
 - **Data Visualization:** Scripts to create various types of plots (e.g., histograms, scatter plots, box plots, bar charts) to visualize the data and the results of the analysis.
 
 
-<img src="https://github.com/solankiboy939/Statistics/assets/119101769/ea4536a4-1087-4b1a-9863-70fcda7b1fe2" width="700" height="350" />
+<img src="https://github.com/solankiboy939/Statistics/assets/119101769/90e3ba89-e83e-4d39-8a7e-e285d0ebb934" width="700" height="350" />
 
 
 - **Hypothesis Testing:** Procedures to test hypotheses about the data, such as whether there is a significant difference between groups or the association between variables.
@@ -70,13 +68,13 @@ This project includes the following features:
 
 - **Regression Analysis:** Implementation of regression models (e.g., linear regression, multiple regression) to explore relationships between dependent and independent variables.
 
-<img src="https://github.com/solankiboy939/Statistics/assets/119101769/1ad490b0-8f87-4cd9-bef8-aab004c99f4b" alt="Animated GIF" width="700" height="350" />
+<img src="https://github.com/solankiboy939/Statistics/assets/119101769/0bd6fd1d-8973-4da3-849a-f2cb6705a696" alt="Animated GIF" width="700" height="350" />
 
 - **Advanced Analysis:** Depending on the project, this might include machine learning models, time series analysis, clustering, or other advanced statistical methods.
 
 
 
-<img src="https://github.com/solankiboy939/Statistics/assets/119101769/6c21ca3d-04a4-4a4e-8eeb-4c7d82be8055" alt="Animated GIF" width="700" height="350" />
+<img src="https://github.com/solankiboy939/Statistics/assets/119101769/e21b0917-2e4f-43e9-add0-61b2cf82e4e5" alt="Animated GIF" width="700" height="350" />
 
 
 ## Installation
